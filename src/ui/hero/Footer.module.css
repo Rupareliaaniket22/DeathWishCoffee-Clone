@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  li {
+    @apply hover:text-red-600 hover:underline;
+  }
+}

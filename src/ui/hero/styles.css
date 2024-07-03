@@ -1,0 +1,19 @@
+/* styles.css */
+.slide {
+  transition: transform 0.3s ease-in-out;
+}
+
+.slide:hover {
+  transform: scale(1.05);
+}
+
+.slide img {
+  transition:
+    opacity 0.5s ease-in-out,
+    transform 0.5s ease-in-out;
+}
+
+.slide:hover img {
+  opacity: 0.8;
+  transform: scale(1.1);
+}

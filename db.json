@@ -1,0 +1,820 @@
+{
+  "smallScreenImages": [
+    {
+      "id": "1",
+      "bg": "./data/sliderbg/smallscreen/sliderbgsmallscreen1.jpg"
+    },
+    {
+      "id": "2",
+      "bg": "./data/sliderbg/smallscreen/sliderbgsmallscreen2.jpg"
+    },
+    {
+      "id": "3",
+      "bg": "./data/sliderbg/smallscreen/sliderbgsmallscreen3.jpg"
+    }
+  ],
+  "largeScreenImages": [
+    {
+      "id": "1",
+      "bg": "./data/sliderbg/sliderbg1.jpg"
+    },
+    {
+      "id": "2",
+      "bg": "./data/sliderbg/sliderbg2.jpg"
+    },
+    {
+      "id": "3",
+      "bg": "./data/sliderbg/sliderbg3.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "7234",
+      "productimg": "/data/products/merch/Treeoflifemug.jpg",
+      "product_name": "TREE OF LIFE MUG",
+      "quantity": 1,
+      "type": "Mugs",
+      "category": "Merch",
+      "product_description": {
+        "heading": "ROOTED IN ETERNITY.",
+        "body": "Inspired by the ancient mysteries of the tree that binds worlds, this limited-edition, handcrafted mug offers sanctuary in the shadows and vows to withstand the test of time. Fill it to the rim with your favorite brew and get ready for a first-sip feeling that’ll have you ready to grab life by the beans for the rest of eternity.",
+        "details": [
+          "Tall belly shape mug.",
+          "Navy base with kiwi white glaze and Mother Earth medallion featuring the tree of life.",
+          "Holds approximately 14oz. of coffee.",
+          "Handmade in the USA by Deneen Pottery.",
+          "100% microwave and oven safe.",
+          "We recommend hand washing only to prevent damage."
+        ]
+      },
+      "product_price": "$38.00",
+      "product_ratings": 4.5,
+      "Ratedby": 2,
+      "isAdded": true,
+      "button": "Add To Cart",
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "theme": "themered"
+    },
+    {
+      "id": "9876",
+      "productimg": "/data/products/coffee/Medium_Roast_Nespresso_10ct_Angle_Pods_PDP_A2-_2.webp",
+      "product_name": "MEDIUM ROAST ESPRESSO CAPSULES",
+      "quantity": 1,
+      "category": "coffee",
+      "type": "coffee",
+      "product_description": {
+        "heading": "A HAPPY MEDIUM WITHOUT COMPROMISE.",
+        "body": "Intensely strong coffee meets the dark, rich taste of espresso. Say goodbye to long café lines and BYOB (be your own barista) with a full-bodied crema made right at home. Smooth and bold with subtle undertones of stone fruit and caramel, we recommend brewing these organic capsules first thing in the morning in total isolation.",
+        "warning": "*Compatible for use with most Nespresso® OriginalLine® brewers. Death Wish Coffee Co. has no affiliation with Nespresso and the statements herein have not been authorized by Société de Produits Nestlé S.A. Nespresso is a registered trademark of Société de Produits Nestlé S.A.",
+        "details": [
+          "Aluminum espresso capsules compatible with Nespresso® Original*.",
+          "Holds approximately 14oz. of coffee.",
+          "Box size: 10 espresso capsules.",
+          "Brews: Espresso (135 oz) and Lungo (3.72 oz.)"
+        ],
+        "ATTRIBUTES": [
+          {
+            "Roast Shade": 50
+          },
+          {
+            "Acidity": 60
+          },
+          {
+            "Body": 60
+          }
+        ],
+        "flavour_profile": "Subtle undertones of stone fruit and caramel."
+      },
+      "product_price": "$12.00",
+      "product_ratings": 4.2,
+      "Ratedby": 1,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "theme": "themegolden"
+    },
+    {
+      "id": "5432",
+      "productimg": "/data/products/coffee/Espresso_Roast_Nespresso_10ct_Angle_Pods_PDP_A2-_3.webp",
+      "product_name": "ESPRESSO ROAST ESPRESSO CAPSULES",
+      "quantity": 1,
+      "type": "capsules",
+      "category": "coffee",
+      "product_description": {
+        "heading": "ESPRESSO YOUR DARK SIDE.",
+        "body": "Rich and intense with espresso-like texture and depth, these organic espresso capsules are your signal to abandon café lines and BYOB (be your own barista) with a full-bodied crema made right at home.",
+        "warning": "*Compatible for use with most Nespresso® OriginalLine® brewers. Death Wish Coffee Co. has no affiliation with Nespresso and the statements herein have not been authorized by Société de Produits Nestlé S.A. Nespresso is a registered trademark of Société de Produits Nestlé S.A.",
+        "details": [
+          "Aluminum espresso capsules compatible with Nespresso® Original*.",
+          "Holds approximately 14oz. of coffee.",
+          "Box size: 10 espresso capsules.",
+          "Brews: Espresso (135 oz) and Lungo (3.72 oz.)"
+        ],
+        "ATTRIBUTES": [
+          {
+            "Roast Shade": 100
+          },
+          {
+            "Acidity": 40
+          },
+          {
+            "Body": 100
+          }
+        ],
+        "flavour_profile": "Subtle undertones of caramelized sugar."
+      },
+      "product_price": "$12.00",
+      "product_ratings": 3.5,
+      "Ratedby": 3,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "theme": "themepurple"
+    },
+    {
+      "id": "1029",
+      "productimg": "/data/products/coffee/Core_Nespresso_10ct_Angle_Pods_A1-_1.webp",
+      "product_name": "TRIPLE THREAT ESPRESSO CAPSULE BUNDLE",
+      "quantity": 1,
+      "type": "bundle",
+      "category": "bundle",
+      "product_description": {
+        "heading": "A TRIO OF BOLD BREWS.",
+        "body": "Three's a crowd? More like a mosh pit of madness. Rich and intense with espresso-like texture and depth, these organic espresso capsules are your signal to abandon café lines and BYOB (be your own barista) with a full-bodied crema made right at home.Each bundle includes a 10-count box of Dark Roast, Espresso Roast and Medium Roast Espresso Capsules.",
+        "warning": "*Compatible for use with most Nespresso® OriginalLine® brewers. Death Wish Coffee Co. has no affiliation with Nespresso and the statements herein have not been authorized by Société de Produits Nestlé S.A. Nespresso is a registered trademark of Société de Produits Nestlé S.A.",
+        "details": [
+          "Aluminum espresso capsules compatible with Nespresso® Original*.",
+          "Holds approximately 14oz. of coffee.",
+          "Box size: 10 espresso capsules.",
+          "Brews: Espresso (135 oz) and Lungo (3.72 oz.)"
+        ]
+      },
+      "product_price": "$29.00",
+      "product_ratings": 4,
+      "Ratedby": 1,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "theme": "themered"
+    },
+    {
+      "id": "3847",
+      "productimg": "/data/products/merch/DWC_April_ArtistSeries_LongSleeve_Front_Web.jpg",
+      "product_name": "DAILY GRIND LONG SLEEVE",
+      "quantity": 1,
+      "type": "clothing",
+      "category": "Merch",
+      "product_description": {
+        "heading": "MAY YOUR CUP RUNNETH OVER.",
+        "body": "Can’t get enough of your favorite brews? We get it. For the days when you can’t stop trying new recipes to figure out how you can possibly get more coffee (and other substances) into your bloodstream, we've got you covered if things get a little out of hand.",
+        "details": [
+          "Black dish towel and oven mitt featuring the Death Wish Coffee sacred bloom botanical pattern.",
+          "Towel: 15.75 x 23.5 rectangle, hemmed on all sides.",
+          "100% Cotton.",
+          "Machine washable with like colors using cold water and gentle cycle.",
+          "Tumble dry low or low iron.",
+          "Do not bleach."
+        ],
+        "Size": [
+          "s",
+          "m",
+          "l",
+          "xl",
+          "2xl"
+        ]
+      },
+      "product_price": "$45.00",
+      "product_ratings": 4.5,
+      "Ratedby": 2,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "theme": "themered"
+    },
+    {
+      "id": "6758",
+      "productimg": "/data/products/merch/DWC_April_OvenMitt_Towel_OvenMitt_TowelWide_Web.jpg",
+      "product_name": "SACRED BLOOM TOWEL AND OVEN MITT",
+      "quantity": 1,
+      "type": "clothing",
+      "category": "Merch",
+      "product_description": {
+        "heading": "FREE YOUR MIND.",
+        "body": "From the wild and hallucinogenic head of artist @catdirty, our latest collaboration draws inspiration from skate culture, psychedelics, music and classic cartoons. Whether your morning cup takes you to otherworldly realms or simply amplifies the outrageous ideas inside your head, free your mind with this limited-edition long sleeves",
+        "sizeavailable": [
+          "s",
+          "m",
+          "l",
+          "xl",
+          "2xl"
+        ],
+        "details": [
+          "Black long sleeve with a design inspired by artist Cat Dirty’s interpretation of what it means to 'Live with a Death Wish.'",
+          "Large colorful illustration on the front chest with a Cat Dirty x Death Wish Coffee logo lockup at the hip and orange Death Wish Coffee wordmark on both sleeves.",
+          "Includes a hangtag sticker with the same Cat Dirty illustration seen on the chest.",
+          "Relaxed fit.",
+          "Heavyweight, 5.9 oz, 100% carded cotton.",
+          "Preshrunk to minimize shrinkage.",
+          "Available in unisex sizing.",
+          "See size chart for more details."
+        ],
+        "sizeChart": "https://cdn.shopify.com/s/files/10271/7209/files/Unisex-Long-Sleeve-Size-Chart_600x600.jpg?v=1696362391",
+        "more_images": [
+          "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_ArtistSeries_LongSleeve_Back_Web.jpg?v=1712685087&width=1946",
+          "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_ArtistSeries_LongSleeve_Graphic_Web.jpg?v=1712685087&width=1946",
+          "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_ArtistSeries_LongSleeve_Sleeve_Web.jpg?v=1712685087&width=1946",
+          "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_ArtistSeries_LongSleeve_Sleeve2_Web.jpg?v=1712685087&width=1946"
+        ]
+      },
+      "product_price": "$28.00",
+      "product_ratings": 4.5,
+      "Ratedby": 2,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "theme": "themered"
+    },
+    {
+      "id": "2109",
+      "productimg": "/data/products/merch/DWC_April_Skateboard_black_Bottom_Web.jpg",
+      "product_name": "DAILY GRIND BLACK SKATEBOARD DECK",
+      "quantity": 1,
+      "type": "skateboard",
+      "category": "Merch",
+      "product_description": {
+        "heading": "HANDRAILS AND HAND GRINDERS.",
+        "body": "Whether your morning cup takes you to otherworldly realms or 20-foot halfpipes, get ready to drop in with this limited-edition skate deck from the wild and hallucinogenic head of artist @catdirty.Inspired by skate culture, psychedelics and classic cartoons, there’s no better way to free your mind from the daily grind than to let it run wild. ﻿Due to the handmade process of each skateboard, each deck could vary in color and arrive as brown, green, blue, pink, red, or yellow.",
+        "details": [
+          "Custom handmade skateboard deck featuring artist Cat Dirty's interpretation of what it means to Live with a Death Wish.",
+          "Background is made up of a tonal repeating Death Wish Coffee wordmark.",
+          "9.25 W x 32.75 L.",
+          "7 nose, 6.25 tail and 13.75 wheelbase."
+        ],
+        "more_images": [
+          "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_Skateboard_black_top_Web.jpg?v=1712685501&width=1946",
+          "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_Skateboard_Black_DWCLogo_Web.jpg?v=1712685501&width=1946",
+          "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_Skateboard_Black_Close_Web.jpg?v=1712685501&width=1946"
+        ]
+      },
+      "product_price": "$70.00",
+      "product_ratings": 4.5,
+      "Ratedby": 2,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "theme": "themered"
+    },
+    {
+      "id": "8765",
+      "productimg": "/data/products/merch/DWC_April_Straws_Package_Front_Web.jpg",
+      "product_name": "KLEAN KANTEEN STRAW 2-PACK",
+      "quantity": 1,
+      "category": "Merch",
+      "type": "straw",
+      "product_description": {
+        "heading": "STICK A STRAW IN IT.",
+        "body": "Our legal team wouldn’t approve of us selling coffee IVs but that doesn’t mean you can’t create your own. Wherever you decide to stick it, these reusable, stainless steel and food grade silicone straws are backed by a lifetime guarantee as reliable as the brews you depend on.",
+        "details": [
+          "Set includes two 8mm stainless steel & food grade silicone straws and a cleaning brush.",
+          "Made from certified 90% post-consumer recycled 18/8 stainless steel.",
+          "BPA Free.",
+          "Easy to disassemble for cleaning.",
+          "Dishwasher safe.",
+          "Silicone straw tip for safe, comfortable sipping.",
+          "Backed by the lifetime Strong as Steel guarantee."
+        ],
+        "more_images": [
+          "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_Straws_Package_Back_Web.jpg?v=1712599721&width=1946",
+          "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_Straws_Full_Web.jpg?v=1712599721&width=1946",
+          "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_Straw_Top_Web.jpg?v=1712599721&width=1946"
+        ]
+      },
+      "product_price": "$8.00",
+      "product_ratings": 4.5,
+      "Ratedby": 2,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "theme": "themered"
+    },
+    {
+      "id": "4321",
+      "productimg": "/data/products/coffee/Dark_Roast_16oz_Ground_Angle_A1-_3.webp",
+      "product_name": "DARK ROAST COFFEE",
+      "quantity": 1,
+      "category": "coffee",
+      "type": "coffee",
+      "product_description": {
+        "heading": "NOT A MORNING PERSON? NOT A PROBLEM.",
+        "body": "Our OG bag of beans may be the only morning friend you’ll ever need. Sourced from the highest-quality coffee beans in the world and roasted to deep, never-bitter perfection, with notes of dark chocolate + black cherry. We recommend at least one cup, first thing in the morning, in total isolation. This is a pound of power—basic brews not invited.",
+        "warning": "SUBSCRIBE & SAVE: Select the size dropdown and change your quantity to 2 bags or more to subscribe and save 20% off your first order + Free Shipping.",
+        "details": [
+          "Bag size: 16 ounces",
+          "Beans: USDA Organic and Certified Fair Trade™ arabica and robusta"
+        ],
+        "type": [
+          "ground",
+          "Whole Bean"
+        ],
+        "ATTRIBUTES": [
+          {
+            "Roast Shade": 85
+          },
+          {
+            "Acidity": 40
+          },
+          {
+            "Body": 100
+          }
+        ],
+        "flavour_profile": "Subtle undertones of dark chocolate and black cherry"
+      },
+      "product_price": "$19.99",
+      "product_ratings": 4.5,
+      "Ratedby": 2,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "theme": "themered"
+    },
+    {
+      "id": "7890",
+      "productimg": "/data/products/coffee/Dark_Roast_10ct_Angle_Vertical_Pods_A1-_2_80a7a931-d037-40d3-a7aa-0a05df7f2e6f.webp",
+      "product_name": "DARK ROAST SINGLE-SERVE PODS",
+      "quantity": 1,
+      "category": "coffee",
+      "type": "coffee",
+      "product_description": {
+        "heading": "FOR A MORNING ROUTINE THAT'S LIGHTNING QUICK.",
+        "body": "Combining the bold taste of our OG Dark Roast with the convenience of single serve pods, our single-serve pods deliver a bold, full-bodied yet smooth and flavorful brew that will awaken your taste buds with an extra kick of caffeine to ignite your attitude. Roasted to bold, never-bitter perfection with subtle undertones of dark chocolate and black cherry, our OG blend of coffee may be the only morning friend you’ll ever need — if you’re lucky.",
+        "warning": "SUBSCRIBE & SAVE: Select the size dropdown and change your quantity to 2 bags or more to subscribe and save 20% off your first order + Free Shipping.",
+        "details": [
+          "Death Cups: Compatible with Keurig 1& 2, Breville, Cuisinart and Mr. Coffee coffee machines",
+          "Beans: USDA Organic and Certified Fair Trade™ arabica and robusta"
+        ],
+        "type": [
+          "ground",
+          "Whole Bean"
+        ],
+        "ATTRIBUTES": [
+          {
+            "Roast Shade": 50
+          },
+          {
+            "Acidity": 45
+          },
+          {
+            "Body": 85
+          }
+        ],
+        "flavour_profile": "Taste: Toasted hazelnut and rich fudge blend with a smooth coffee profile.Aftertaste: Toasted hazelnut and semi-sweet chocolate finish.Aroma: Notes of fudge and toasted hazelnut."
+      },
+      "product_price": "$14.99",
+      "product_ratings": 4.2,
+      "Ratedby": 62,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "theme": "themered"
+    },
+    {
+      "id": "2345",
+      "productimg": "/data/products/coffee/Chocolate_Hazelnut_14oz_Ground_Angle_A1_963d87a8-ec42-42fb-8b8d-8e21d32ff6d2.webp",
+      "product_name": "CHOCOLATE HAZELNUT COFFEE",
+      "quantity": 1,
+      "category": "coffee",
+      "type": "coffee",
+      "product_description": {
+        "heading": "ALL HAIL THE HAZE.",
+        "body": "Poised in the perfect purgatory of dark chocolate and heavenly hazelnut, this medium-roasted and full-bodied brew packs the everlasting strength you need with the flavor you crave.We worship the ground our goods come from, which means only Fair Trade arabica and robusta beans reach our roasters. Devilishly decadent and never acidic, this fudge-forward flavor tastes like a sin but doesn’t sip like one.",
+        "details": [
+          "Bag size: 14 ounces",
+          "Format: Ground",
+          "Beans: USDA Organic and Certified Fair Trade™ arabica and robusta"
+        ],
+        "ATTRIBUTES": [
+          {
+            "Roast Shade": 85
+          },
+          {
+            "Acidity": 40
+          },
+          {
+            "Body": 100
+          }
+        ],
+        "flavour_profile": "Subtle undertones of dark chocolate and black cherry"
+      },
+      "product_price": "$14.99",
+      "product_ratings": 4.7,
+      "Ratedby": 128,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "theme": "themegolden"
+    },
+    {
+      "id": "6789",
+      "productimg": "/data/products/coffee/Chocolate_Hazelnut_10ct_Angle_Vertical_Pods_A1_097b3690-6705-45ca-afa8-1b3ffa652157.webp",
+      "product_name": "CHOCOLATE HAZELNUT SINGLE-SERVE PODS",
+      "quantity": 1,
+      "category": "coffee",
+      "type": "pods",
+      "product_description": {
+        "heading": "ALL HAIL THE HAZE.",
+        "body": "Poised in the perfect purgatory of dark chocolate and heavenly hazelnut, this medium-roasted and full-bodied brew packs the everlasting strength you need with the flavor you crave.We worship the ground our goods come from, which means only Fair Trade arabica and robusta beans reach our roasters. Devilishly decadent and never acidic, this fudge-forward flavor tastes like a sin but doesn’t sip like one.",
+        "details": [
+          "Death Cups: Compatible with Keurig 1& 2, Breville, Cuisinart and Mr. Coffee coffee machines",
+          "Beans: USDA Organic and Certified Fair Trade™ arabica and robusta"
+        ],
+        "ATTRIBUTES": [
+          {
+            "Roast Shade": 85
+          },
+          {
+            "Acidity": 40
+          },
+          {
+            "Body": 100
+          }
+        ],
+        "flavour_profile": "Subtle undertones of dark chocolate and black cherry"
+      },
+      "product_price": "$15.99",
+      "product_ratings": 4.8,
+      "Ratedby": 141,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "theme": "themegolden"
+    },
+    {
+      "id": "1234",
+      "productimg": "/data/products/merch/DeathWishCoffee_SocietyOfStrong_Mug_Front_057_Web-_1.webp",
+      "product_name": "SOCIETY OF STRONG MUG",
+      "quantity": 1,
+      "type": "Mugs",
+      "category": "Merch",
+      "product_price": "$38.00",
+      "isSocietyExclusive": true,
+      "product_ratings": 5,
+      "Ratedby": 35,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "theme": "themered"
+    },
+    {
+      "id": "6",
+      "productimg": "/data/products/merch/DeathWishCoffee_SocietyOfStrong_Jacket_Front_045_Web_712b1fec-946f-428c-b35c-475e7c627c18.webp",
+      "product_name": "SACRED TRUTH WORK JACKET",
+      "quantity": 1,
+      "type": "clothing",
+      "category": "Merch",
+      "product_price": "$125.00",
+      "isSocietyExclusive": true,
+      "product_ratings": 4.7,
+      "Ratedby": 15,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "theme": "themered"
+    },
+    {
+      "id": "7",
+      "productimg": "/data/products/coffee/Medium_Roast_16oz_Ground_Angle_A1_8f8a7b97-f418-4bc8-bfcd-bd551950b3b3.webp",
+      "product_name": "MEDIUM ROAST COFFEE",
+      "quantity": 1,
+      "category": "coffee",
+      "type": "coffee",
+      "product_description": {
+        "heading": "A HAPPY MEDIUM WITHOUT COMPROMISE.",
+        "body": "Our Medium Roast Coffee delivers a bold, full-bodied yet smooth and flavorful brew that will awaken your taste buds, with an extra kick of caffeine to ignite your attitude. Smooth and balanced with a complex flavour_profile including subtle undertones of stone fruit and caramel, we recommend at least one cup first thing in the morning in total isolation.",
+        "warning": "SUBSCRIBE & SAVE: Select the size dropdown and change your quantity to 2 bags or more to subscribe and save 20% off your first order + Free Shipping.",
+        "details": [
+          "Bag size: 16 ounces",
+          "Beans: USDA Organic and Certified Fair Trade™ arabica and robusta"
+        ],
+        "type": [
+          "ground",
+          "Whole Bean"
+        ],
+        "ATTRIBUTES": [
+          {
+            "Roast Shade": 85
+          },
+          {
+            "Acidity": 60
+          },
+          {
+            "Body": 60
+          }
+        ],
+        "flavour_profile": "Subtle undertones of stone fruit and caramel."
+      },
+      "product_price": "$19.99",
+      "product_ratings": 4.8,
+      "Ratedby": 1008,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "theme": "themegolden"
+    },
+    {
+      "id": "8",
+      "productimg": "/data/products/coffee/Medium_Roast_10ct_Angle_Vertical_Pods_A1_97237db9-e69a-418f-b5da-ac7e01acb8ec.webp",
+      "product_name": "MEDIUM ROAST SINGLE-SERVE PODS",
+      "quantity": 1,
+      "category": "coffee",
+      "type": "pods",
+      "product_description": {
+        "heading": "A HAPPY MEDIUM WITHOUT COMPROMISE.",
+        "body": "Our Medium Roast Coffee delivers a bold, full-bodied yet smooth and flavorful brew that will awaken your taste buds, with an extra kick of caffeine to ignite your attitude. Smooth and balanced with a complex flavour_profile including subtle undertones of stone fruit and caramel, we recommend at least one cup first thing in the morning in total isolation.",
+        "warning": "SUBSCRIBE & SAVE: Select the size dropdown and change your quantity to 2 bags or more to subscribe and save 20% off your first order + Free Shipping.",
+        "details": [
+          "Bag size: 16 ounces",
+          "Beans: USDA Organic and Certified Fair Trade™ arabica and robusta"
+        ],
+        "type": [
+          "ground",
+          "Whole Bean"
+        ],
+        "ATTRIBUTES": [
+          {
+            "Roast Shade": 85
+          },
+          {
+            "Acidity": 60
+          },
+          {
+            "Body": 60
+          }
+        ],
+        "flavour_profile": "Subtle undertones of stone fruit and caramel."
+      },
+      "product_price": "$14.99",
+      "product_ratings": 4.8,
+      "Ratedby": 505,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "theme": "themegolden"
+    },
+    {
+      "id": "9",
+      "productimg": "/data/products/merch/MetalCore-101.webp",
+      "product_name": "CROSSBONES KLEAN KANTEEN MUG",
+      "quantity": 1,
+      "category": "Merch",
+      "type": "Mugs",
+      "product_description": {
+        "heading": "METAL TO THE CORE.",
+        "body": "For when you need to get cracking while you crush your coffee. Serving on-the-go readiness in a shadowy colorway that can withstand even the loudest of living. So turn it up, hit the gas and do what you gotta do. Your coffee will be hot and ready in the Crossbones Klean Kanteen Mug.",
+        "details": [
+          "12oz Camp Mug.",
+          "Matte black with silver base.",
+          "Made of 90% recycled stainless steel.",
+          "BPA-Free.",
+          "Silver Death Wish Coffee logo featured on both sides.",
+          "Climate Lock vacuum insulation.",
+          "Splash proof tumbler lid.",
+          "3.5 hours cold & 9.5 hours hot.",
+          "Dishwasher safe."
+        ]
+      },
+      "product_price": "$25.00",
+      "product_ratings": 4.7,
+      "Ratedby": 63,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "theme": "themered"
+    },
+    {
+      "id": "10",
+      "productimg": "/data/products/merch/DeathWishCoffee_February24_Snapback_Web.webp",
+      "product_name": "ANTHONY ALFREDO NO. 62 SNAPBACK",
+      "quantity": 1,
+      "category": "Merch",
+      "type": "cap",
+      "product_description": {
+        "heading": "PUT THE PEDAL TO THE METAL.",
+        "body": "Rumor has it that green’s bad luck in racing but you know what’s not? Black.Hit the gas with a classic look as bold as the brews you drink and leave your to-do list in the dust—even if it includes 800 left turns, half a dozen pit stops and no pause button for when you need a bathroom break.",
+        "details": [
+          "Black six panel snapback with Death Wish Coffee PVC patch.",
+          "Anthony Alfredo's No. 62 embroidered at the left-wear side.",
+          "Light grey undervisor with black interior taping and eyelets.",
+          "80% Acrylic/20% Wool.",
+          "One size fits most."
+        ]
+      },
+      "product_price": "$35.00",
+      "product_ratings": 5,
+      "Ratedby": 2,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "theme": "themered"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "bg": "./data/products/category/coffee.webp",
+      "text": "Coffee"
+    },
+    {
+      "id": "2",
+      "bg": "./data/products/category/Merch.webp",
+      "text": "Merch"
+    },
+    {
+      "id": "3",
+      "bg": "./data/products/category/Bundles.webp",
+      "text": "Bundles"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "heading": "“I AM SO HAPPY I STARTED DRINKING THIS COFFEE”",
+      "body": "I am so happy I started drinking this coffee. This is the first time I have not had to deal with acid issues or coffee making me feel sick after drinking it. I have not had that issue once with this coffee and that's a big deal to me.",
+      "name": "MICHELLE R."
+    },
+    {
+      "id": "2",
+      "heading": "“THE GREATEST COFFEE ON EARTH”",
+      "body": "Death Wish Coffee is the greatest coffee on earth. I wholeheartedly believe that. It's smoother than you can possibly imagine. It's strong, it's whole and it's hearty. I can't endorse this product enough.",
+      "name": "TROY S."
+    },
+    {
+      "id": "3",
+      "heading": "“CONSIDER IT A FINISHED PROJECT”",
+      "body": "If you need to get things DONE, drink some Death Wish Coffee and consider it a finished project. Ordering more as we speak!",
+      "name": "MASSI B."
+    }
+  ],
+  "text": [
+    {
+      "id": "1",
+      "title": "HANDCRAFTED DOWN TO THE ROOTS",
+      "content": "Inspired by the ancient mysteries of the tree that binds worlds, this limited-edition, handcrafted mug vows to withstand the test of time.",
+      "button": [
+        "SHOP HANDCRAFTED MUGS",
+        "SHOP ALL MERCH"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "NEW FLAVOR: ALMOND AFTERLIFE",
+      "content": "Boasting notes of roasted almonds and sweet, fresh biscotti, dig yourself out of your tomb of a to-do list with a medium roast could wake the dead. Available exclusively at deathwishcoffee.com.",
+      "button": [
+        "SHOP ALMOND AFTERLIFE",
+        "SHOP ALL COFFEE"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "NUMB YOUR MIND TO THE DAILY GRIND",
+      "content": "From the wild and hallucinogenic mind of artist Cat Dirty, our latest limited-edition collaboration draws inspiration from skate culture, psychedelics and classic cartoons.",
+      "button": [
+        "SHOP NOW"
+      ]
+    }
+  ],
+  "Cart": [
+    {
+      "id": "4321",
+      "productimg": "/data/products/coffee/Dark_Roast_16oz_Ground_Angle_A1-_3.webp",
+      "product_name": "DARK ROAST COFFEE",
+      "quantity": 5,
+      "category": "coffee",
+      "type": "coffee",
+      "product_description": {
+        "heading": "NOT A MORNING PERSON? NOT A PROBLEM.",
+        "body": "Our OG bag of beans may be the only morning friend you’ll ever need. Sourced from the highest-quality coffee beans in the world and roasted to deep, never-bitter perfection, with notes of dark chocolate + black cherry. We recommend at least one cup, first thing in the morning, in total isolation. This is a pound of power—basic brews not invited.",
+        "warning": "SUBSCRIBE & SAVE: Select the size dropdown and change your quantity to 2 bags or more to subscribe and save 20% off your first order + Free Shipping.",
+        "details": [
+          "Bag size: 16 ounces",
+          "Beans: USDA Organic and Certified Fair Trade™ arabica and robusta"
+        ],
+        "type": [
+          "ground",
+          "Whole Bean"
+        ],
+        "ATTRIBUTES": [
+          {
+            "Roast Shade": 85
+          },
+          {
+            "Acidity": 40
+          },
+          {
+            "Body": 100
+          }
+        ],
+        "flavour_profile": "Subtle undertones of dark chocolate and black cherry"
+      },
+      "product_price": "$19.99",
+      "product_ratings": 4.5,
+      "Ratedby": 2,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "theme": "themered"
+    },
+    {
+      "id": "9876",
+      "productimg": "/data/products/coffee/Medium_Roast_Nespresso_10ct_Angle_Pods_PDP_A2-_2.webp",
+      "product_name": "MEDIUM ROAST ESPRESSO CAPSULES",
+      "quantity": 1,
+      "category": "coffee",
+      "type": "coffee",
+      "product_description": {
+        "heading": "A HAPPY MEDIUM WITHOUT COMPROMISE.",
+        "body": "Intensely strong coffee meets the dark, rich taste of espresso. Say goodbye to long café lines and BYOB (be your own barista) with a full-bodied crema made right at home. Smooth and bold with subtle undertones of stone fruit and caramel, we recommend brewing these organic capsules first thing in the morning in total isolation.",
+        "warning": "*Compatible for use with most Nespresso® OriginalLine® brewers. Death Wish Coffee Co. has no affiliation with Nespresso and the statements herein have not been authorized by Société de Produits Nestlé S.A. Nespresso is a registered trademark of Société de Produits Nestlé S.A.",
+        "details": [
+          "Aluminum espresso capsules compatible with Nespresso® Original*.",
+          "Holds approximately 14oz. of coffee.",
+          "Box size: 10 espresso capsules.",
+          "Brews: Espresso (135 oz) and Lungo (3.72 oz.)"
+        ],
+        "ATTRIBUTES": [
+          {
+            "Roast Shade": 50
+          },
+          {
+            "Acidity": 60
+          },
+          {
+            "Body": 60
+          }
+        ],
+        "flavour_profile": "Subtle undertones of stone fruit and caramel."
+      },
+      "product_price": "$12.00",
+      "product_ratings": 4.2,
+      "Ratedby": 1,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "theme": "themegolden"
+    },
+    {
+      "id": "3847",
+      "productimg": "/data/products/merch/DWC_April_ArtistSeries_LongSleeve_Front_Web.jpg",
+      "product_name": "DAILY GRIND LONG SLEEVE",
+      "quantity": 3,
+      "type": "clothing",
+      "category": "Merch",
+      "product_description": {
+        "heading": "MAY YOUR CUP RUNNETH OVER.",
+        "body": "Can’t get enough of your favorite brews? We get it. For the days when you can’t stop trying new recipes to figure out how you can possibly get more coffee (and other substances) into your bloodstream, we've got you covered if things get a little out of hand.",
+        "details": [
+          "Black dish towel and oven mitt featuring the Death Wish Coffee sacred bloom botanical pattern.",
+          "Towel: 15.75 x 23.5 rectangle, hemmed on all sides.",
+          "100% Cotton.",
+          "Machine washable with like colors using cold water and gentle cycle.",
+          "Tumble dry low or low iron.",
+          "Do not bleach."
+        ],
+        "Size": [
+          "s",
+          "m",
+          "l",
+          "xl",
+          "2xl"
+        ]
+      },
+      "product_price": "$45.00",
+      "product_ratings": 4.5,
+      "Ratedby": 2,
+      "isAdded": false,
+      "button": "Add To Cart",
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "theme": "themered"
+    }
+  ]
+}
